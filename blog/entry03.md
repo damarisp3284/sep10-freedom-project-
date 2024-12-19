@@ -10,10 +10,14 @@ We first had to brainstorm our ideas for the future we would like to create, our
 At first I felt clueless and lost with no where to start but with using from what I have with Part A and B I started by going back and viewing what Information I have and with that I started to brainstorm ideas with inspiration of my current data that I have collected.
 
 Also with using some examples from past projects that my teacher has posted with the slides from the day's lesson to kind of give me an idea of how to sort it out or some model on how it will simmilarly look like. 
+ 
+Once we were done with our list we moved on with finalizing our context so we can show it to our classmates and get feedback on what else we can add on as well as from our teacher so we can start writing up our `Blog 3`.
+
+---
+
+#### Engineering Design Process 
 
 Using the websites that I found like [The University Of Washington](https://guides.lib.uw.edu/c.php?g=1117513&p=8195685), a website called [Neefuse](https://www.neefusa.org/story/climate-change/calculating-future), and [A list of new invented Gadgets](https://www.greenlivingblog.org.uk/top-eco-friendly-home-gadgets/). As references to start my **Engineering design process**, first Brainstorm and plan to create something that can help benefit our enviroment and climate change. 
-
-Once we were done with our list we moved on with finalizing our context so we can show it to our classmates and get feedback on what else we can add on as well as from our teacher so we can start writing up our `Blog 3`.
 
 ---
 
