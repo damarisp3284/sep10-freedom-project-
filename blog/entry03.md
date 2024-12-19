@@ -13,6 +13,8 @@ Also with using some examples from past projects that my teacher has posted with
 
 Once we were done with our list we moved on with finalizing our context so we can show it to our classmates and get feedback on what else we can add on as well as from our teacher so we can start writing up our `Blog 3`.
 
+
+
 #### Finallizing Our Content 
 
 After adding all my feedback that I have recieved we had 3 options, a day to catch up on work, waiting for feedback from _Mr.Muller_ and start working on `Blog 3` and then come back to our google doc to check if we have everything right, or if we have everything perfect and _Mr Mueller_ thinks your work is good to go then you can start to focus on `Blog 3`
