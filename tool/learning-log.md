@@ -11,6 +11,7 @@
   *  Started coding and making random things, testing out different properties that you can use
   *  Learned how to create animations, timing them on how long I would like for them to be runned for, adding buttons.
 *  Looked over the guides [Bulma](https://bulma.io/documentation/start/overview/)
+*  Also for [WowJs](https://animate.style/)
   * Gave some features, in which I tested them out on JsBin    
 
 ![image](https://github.com/user-attachments/assets/e6e27473-9926-46d0-bc9a-06647b69aeb6)
