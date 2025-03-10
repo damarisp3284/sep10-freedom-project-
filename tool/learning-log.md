@@ -23,8 +23,8 @@
 
 * These are good for trying to customize my website and try to capture user's attention
 
-### X/X/XX:
-* Text
+### 3/10/25:
+* Started to tinker with Bulma using **pickcode** to save my progress.
 
 
 <!-- 
