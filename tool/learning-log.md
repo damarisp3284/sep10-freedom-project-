@@ -27,7 +27,7 @@
 * Started to tinker with Bulma using **pickcode** to save my progress.
 * Used some features of Bulma in my current porjects during class
 * tried to challenged myself and asked for help when I was stuck
-  *As well as any tips  
+ * As well as any tips  
 
 
 <!-- 
