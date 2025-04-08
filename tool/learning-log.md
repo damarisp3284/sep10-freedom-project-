@@ -27,8 +27,19 @@
 * Started to tinker with Bulma using **pickcode** to save my progress.
 * Used some features of Bulma in my current porjects during class
 * tried to challenged myself and asked for help when I was stuck
- * As well as any tips  
+ * As well as any tips
 
+### 3/27/25:
+ * After using Bulma I started to use `WowJs`
+ * Tried to experiement with the animations that you can use in **pickcode**
+ ![Screenshot 2025-03-27 14 16 32](https://github.com/user-attachments/assets/ed1ae7a8-e055-4548-8767-1ed31b4fae5c)
+
+ ![image](https://github.com/user-attachments/assets/595482c8-e2ce-474a-9367-0b875319463f)
+ 
+  * [Used this video as a tutorial](https://youtu.be/bd_jHBk8Kzw?si=cQmZKucG0eQ8SV8-)
+  * [This video as inspiration for a project I want to make](https://youtu.be/-mIWhsZ0Wxo?si=TFKAgwxeqxacrYS2)
+ 
+* [Link to my pickcode](https://app.pickcode.io/project/cm8rnhkdg3czp13zddxe96yz2)
 
 <!-- 
 * Links you used today (websites, videos, etc)
