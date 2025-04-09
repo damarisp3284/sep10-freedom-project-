@@ -5,7 +5,10 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+
+
         <style>
+
             /* CSS */
 
         </style>
@@ -14,74 +17,8 @@
     </head>
     <body>
         <!-- HTML -->
-        @use "sass/utilities/initial-variables" as iv;
-        @use "sass/utilities/css-variables" as cv;
-        @use "sass/utilities/derived-variables" as dv;
-        @use "sass/themes/setup";
 
-        // The main lightness of this theme
-        $scheme-main-l: 11%;
-        $background-l: 14%;
-        $text-l: 71%;
-
-        // The main scheme color, used to make calculations
-        $scheme-main: hsl(iv.$scheme-h, iv.$scheme-s, $scheme-main-l);
-        $background: hsl(iv.$scheme-h, iv.$scheme-s, $background-l);
-        $text: hsl(iv.$scheme-h, iv.$scheme-s, $text-l);
-
-        @mixin dark-theme {
-          // Required: update the lightness colors and hover/active states
-          @include cv.register-vars(
-            (
-              "scheme-brightness": "dark",
-              "scheme-main-l": $scheme-main-l,
-              "scheme-main-bis-l": $scheme-main-l + 2%,
-              "scheme-main-ter-l": $scheme-main-l + 4%,
-              "background-l": $background-l,
-              "border-weak-l": 21%,
-              "border-l": 24%,
-              "text-weak-l": 53%,
-              "text-l": $text-l,
-              "text-strong-l": 93%,
-              "text-title-l": 100%,
-              "hover-background-l-delta": 5%,
-              "active-background-l-delta": 10%,
-              "hover-border-l-delta": 10%,
-              "active-border-l-delta": 20%,
-              "hover-color-l-delta": 5%,
-              "active-color-l-delta": 10%,
-            )
-          );
-
-          // Required: update the "on scheme" colors since the main scheme color is changed
-          // from white (100% lightness)
-          // to black (11% lightness in this case)
-           @each $name, $color in dv.$colors {
-            @include cv.generate-on-scheme-colors($name, $color, $scheme-main);
-          }
-
-          // Optional: update the shadow color
-          @include cv.register-hsl("shadow", white);
-        }
-
-        @media (prefers-color-scheme: dark) {
-            :root {
-              /* Update CSS variables */
-            }
-          }
-
-          [data-theme=dark],
-          .theme-dark {
-            /* Update CSS variables */
-          }
-
-          <div>
-            <p>This is light!</p>
-          </div>
-
-          <div class:"theme-dark">
-            <p>This is not light anymore!</p>
-          </div>
+        
 
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
