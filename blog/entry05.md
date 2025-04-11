@@ -17,7 +17,7 @@ As well as `Buttons`:
 
 ![image](https://github.com/user-attachments/assets/f217c55e-fe60-4f91-b024-cfc15aee42fd)
 
-Apart from using [Bulma's documentation](https://bulma.io/documentation/)
+Apart from using [Bulma's documentation](https://bulma.io/documentation/) as well as [A pickcode](https://app.pickcode.io/project/cm8rnhkdg3czp13zddxe96yz2) To which I tinkered and added in some features that I have learned. Using [This video](https://youtu.be/bd_jHBk8Kzw?si=cQmZKucG0eQ8SV8-) As sort of some inspiration when Im near to create my project.
 
 
 
