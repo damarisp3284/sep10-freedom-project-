@@ -1,7 +1,26 @@
 # Entry 5
-##### X/X/XX
+##### 04/11/25
 
-Text
+During March and now April we have been learning about our tool and some days in March and now fully in April. Using this time I have been learning about **Bulma**.
+
+---
+
+## Context
+
+Our teacher **Mr. Mueller** had given us a `Learning log` as a way to track our progress with what we are learning in our tool such as tinkering, videos on **Youtube**, guides or anything we have been doing as proof that we are learning this on our own and using that to tinker. 
+
+In my learning log I have been tinkering in **JS Bin** with properties like `Skeleton`
+
+![image](https://github.com/user-attachments/assets/f825f495-4617-4d79-90cf-2d8981094201)
+
+As well as `Buttons`:
+
+![image](https://github.com/user-attachments/assets/f217c55e-fe60-4f91-b024-cfc15aee42fd)
+
+Apart from using [Bulma's documentation](https://bulma.io/documentation/)
+
+
+
 
 [Previous](entry04.md) | [Next](entry06.md)
 
