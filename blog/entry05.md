@@ -19,7 +19,11 @@ As well as `Buttons`:
 
 Apart from using [Bulma's documentation](https://bulma.io/documentation/) as well as [A pickcode](https://app.pickcode.io/project/cm8rnhkdg3czp13zddxe96yz2) To which I tinkered and added in some features that I have learned. Using [This video](https://youtu.be/bd_jHBk8Kzw?si=cQmZKucG0eQ8SV8-) As a model [Video #2](https://youtu.be/-mIWhsZ0Wxo?si=TFKAgwxeqxacrYS2) for inspiration.
 
+## Skills
 
+Using google for when I needed help or didn't understant what the documentation in `Bulma` stated helped especially when it was **Youtube vidoes** or actual people replying to question that had an issue similar to mine. 
+
+Learning to understand the different ways that a property can be used had many different features such as add in videos or css, the way a user can place it or how it will look like in a different device was overwhelming but I liked how it's very open to other properties that you can use for your website.
 
 
 [Previous](entry04.md) | [Next](entry06.md)
