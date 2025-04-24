@@ -8,19 +8,25 @@
 * `#ABC123`
 
 ## Fonts
-* [Text](URL)
+* [Playwrite Romania](https://fonts.google.com/specimen/Playwrite+RO)
+* [Raleway](https://fonts.google.com/specimen/Raleway)
 
 ## Timeline
 
 #### MVP
 
-* Task/Timeline
+**DUE 5/5**
 
+* 4/24
+  * Wait for approval, Once approved:
+  * Start working on Narbar + Title
 ---
 
 #### Beyond MVP
 
-* Task
+* Add in more components to make it not boring 
+* Fixing anything
+* Add in different fonts + colors
 
 
 
