@@ -6,6 +6,9 @@
 
 ## Colors
 * `#ABC123`
+* `9593d9`
+* `7C90DB`
+* `AB92BF`
 
 ## Fonts
 * [Playwrite Romania](https://fonts.google.com/specimen/Playwrite+RO)
