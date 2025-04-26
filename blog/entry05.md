@@ -26,6 +26,15 @@ Using google for when I needed help or didn't understant what the documentation 
 Learning to understand the different ways that a property can be used had many different features such as add in videos or css, the way a user can place it or how it will look like in a different device was overwhelming but I liked how it's very open to other properties that you can use for your website.
 
 
+## Challenges
+
+When adding in the feature switching a website background to either dark or light mode, everytime I kept adding in the correct code it would always stay at dark mode no matter if I changed it to light mode that is until I searched around `Google` and `Youtube` for help. 
+
+## Takeaway 
+
+Overall, Bulma gave me knowledge of how to use it for a website and what it's features are like as well as learning from my mistakes and the challenges I had to face with some of it's commands being difficult for me to understand. It involves with alot of CSS 
+
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
