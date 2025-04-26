@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile](URL)
-* [Desktop](URL)
+* [Mobile](https://wireframe.cc/yvDm4q)
+* [Desktop](https://wireframe.cc/4yfL0L?authuser=0)
 
 ## Colors
 * `#ABC123`
@@ -20,6 +20,12 @@
 * 4/24
   * Wait for approval, Once approved:
   * Start working on Narbar + Title
+ 
+* 4/26
+ * Resubmit Wireframe
+ * adding in links + any other font or color needed
+ * Start coding with Navbar + Title
+   * If have time start to add in context   
 ---
 
 #### Beyond MVP
