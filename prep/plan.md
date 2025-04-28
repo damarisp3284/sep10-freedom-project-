@@ -37,7 +37,11 @@
  * Resubmit Wireframe
  * adding in links + any other font or color needed
  * Start coding with Navbar + Title
-   * If have time start to add in context   
+   * If have time start to add in context
+  
+* 4/28
+ * Start to work on adding in context + images
+ * Add in other components if needed
 ---
 
 #### Beyond MVP
