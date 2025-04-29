@@ -23,6 +23,12 @@
 * [Playwrite Romania](https://fonts.google.com/specimen/Playwrite+RO)
 * [Raleway](https://fonts.google.com/specimen/Raleway)
 
+
+## Images 
+* ![image](https://github.com/user-attachments/assets/2c988710-d91a-43d6-941a-e7ffb75f0c64)
+* ![device2](https://github.com/user-attachments/assets/73f8dba2-b490-44b2-bf4d-30d028068f78)
+
+
 ## Timeline
 
 #### MVP
