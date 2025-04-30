@@ -25,8 +25,9 @@
 
 
 ## Images 
-* ![image](https://github.com/user-attachments/assets/2c988710-d91a-43d6-941a-e7ffb75f0c64)
-* ![device2](https://github.com/user-attachments/assets/73f8dba2-b490-44b2-bf4d-30d028068f78)
+* ![image](device2.png)
+* ![image](d4.png)
+* ![image](d2.jpg)
 
 
 ## Timeline
