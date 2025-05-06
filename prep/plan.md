@@ -74,7 +74,7 @@
 | Name | Glows | Grows |
 |----  |----   |----|
 | Winnie |I like how your website included the sources on the side, I find this very interesting as not much people did this. I also like ur layout | A suggestion is to make the image smaller. Since when we change the size of the screen the image become super big. |
-|   |   |
+| Jolee  | I liked the clear visuals of the devices and also the reference links you added so we'd know where you got your information from.  | A suggestion I have is to change the color scheme of your website and so also add some margin and padding so each element is distinctable to the next. 
 |   |   |
 |   |   |
 |   |   |
