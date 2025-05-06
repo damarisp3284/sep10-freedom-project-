@@ -72,7 +72,8 @@
 #### Peer Feedback
 
 | Name | Glows | Grows |
-| -------- | ------- | ------- |
+|----  |----   |----|
+| Winnie |I like how your website included the sources on the side, I find this very interesting as not much people did this. I also like ur layout | A suggestion is to make the image smaller. Since when we change the size of the screen the image become super big. |
 |   |   |
 |   |   |
 |   |   |
