@@ -31,21 +31,19 @@
             padding: 20px;
             column-count: auto;
             column-rule-width: 5px;
-}
+            }
 
-}
+            .row:after {
+            content: "";
+            display: table;
+            clear: both;
+            }
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
+            @media screen and (max-width: 600px) {
+            .column {
+               width: 100%;
+            }
+          }
     </style>
 
         <title>Freedom Project</title>
@@ -139,6 +137,7 @@
 
 
             <div class="row row-cols-1 row-cols-md-3 g-4">
+              <h2 class="text-2"> Types of Devices</h2>
               <div class="col">
                 <div class="card h-100">
                   <img src="prep/d4.png" class="card-img-top" alt="air">
