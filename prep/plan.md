@@ -61,7 +61,10 @@
 * Add in more components to make it not boring
 * Fixing anything
 * Add in different fonts + colors
-* fix navbar
+
+* Fix Narbar
+* Add in some margin and paddin to fix my website
+* Adjust content such as the links   
 
 
 
