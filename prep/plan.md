@@ -62,6 +62,9 @@
 * Fixing anything
 * Add in different fonts + colors
 
+* Fix Narbar
+* Add in some margin and paddin to fix my website
+* Adjust content such as the links   
 
 
 
@@ -69,15 +72,16 @@
 
 
 
-<!-- DO NOT USE THIS YET
+#### Peer Feedback
 
 | Name | Glows | Grows |
-| -------- | ------- | ------- |
-|   |   |
-|   |   |
-|   |   |
+|----  |----   |----|
+| Winnie |I like how your website included the sources on the side, I find this very interesting as not much people did this. I also like ur layout | A suggestion is to make the image smaller. Since when we change the size of the screen the image become super big. |
+| Jolee  | I liked the clear visuals of the devices and also the reference links you added so we'd know where you got your information from.  | A suggestion I have is to change the color scheme of your website and so also add some margin and padding so each element is distinctable to the next. 
+| Farzona  | I like how you included sources becasue some people could want to know more about your topic and don't know where to find it. So, putting soucres was a good idea. | One thing you should consider is trying to make your navbar work becasue currently when I click the parts of your website, it doesnt bring me to them.  
+| Gabriel  |  I like the basic layout of it and  how easy it is to navigate | I dont think the menu can close becausse when I click the button nothing happens. Also the sources are just kinda there and it interrupts the flow of the websites so I think that could be put out of the way but still visible
 |   |   |
 |   |   |
 |   |   |
 
--->
+
