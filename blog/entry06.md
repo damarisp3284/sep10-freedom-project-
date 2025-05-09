@@ -42,6 +42,10 @@ A challenge I faced was trying to add in 3 columns which based on my mobile wire
 
 Using Google and peer feedback has helped me build my project as something we can forget things or we need some type of advice from others to see if you feel confident in presenting your work. Google has helped me in times where I wanted to make sure what I was adding on my code had the correct values and input, managing our time has helped since we we're crowding in everything and took our time to make it look nice and plan what we have to add on first.
 
+#### Takeaway
+
+Overall, it has been a challenging process and also peaceful as we have spaced our time for this project and not like our previous ones where we have only had a week or sometimes less than that. Having feedback helps to see what you're missing and what you need to add to make it look presentable.
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
