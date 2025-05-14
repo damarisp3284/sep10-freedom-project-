@@ -1,13 +1,15 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Ever wonder why climate change is a huge topic, especcially with our governmant and other world powers?
+* Why do we care so much about it? 
 
 ## Product
-* 
+* Add in a GIF 
 
 ## Process
-* 
+* Looking at the internet with information on how Technology has contributed to combat affects of climate change such as pollution. Devices created for this purpose or keep track of the air quality as well as, keeping my website layout minimum and getting creative with my tool wowjs.
+* Provice code snippets 
 
 ## Conclusion
 * 
