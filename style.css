@@ -88,3 +88,13 @@
           .card-img-top {
            width: auto;
           }
+
+          .column-1 {
+            width: 33.33%;
+    padding: 20px;
+    column-count: auto;
+    column-rule-width: 5px;
+    margin: auto;
+    border-style: groove;
+    border-block-width: 5px;
+          }
