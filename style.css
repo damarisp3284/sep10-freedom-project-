@@ -95,6 +95,6 @@
     column-count: auto;
     column-rule-width: 5px;
     margin: auto;
-    border-style: groove;
+    border-style: double;
     border-block-width: 5px;
           }
