@@ -1,24 +1,29 @@
 # SEP10 Freedom Project
-by **X**
+by **Damaris**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **Enviroment**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **WowJs** in order to help with my website look more attention seeking and interesting. 
 
 ## Links
 
-[Product]()
+[Product](https://damarisp3284.github.io/sep10-freedom-project-/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/14SxzK9hExV-v8CSbstNDMtgf3pPiQdjSJmKImMxwgnU/edit?slide=id.g3591ea0b452_1_20#slide=id.g3591ea0b452_1_20)
 
 ## Implications
 ##### PROS
-* 
+* The animations make a great way to seek the audiance's attention
+* **Information** for users to know about and the **importance**
+* Great way of seeing how **Technology** has merged and been **included** to help combat **climate change**
+
+ 
 ##### CONS
-* 
+* May not be the best in terms of color
+* Not much to look around and only has small sections
 
 
 ## Blog
