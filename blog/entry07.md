@@ -23,15 +23,25 @@ For more of a better view you can preview my [Mobile wireframe here](https://wir
 
 Once we got apporved we got started on building our website with doing first our **MVP** and setting up deadlines to what we needed to add by a certain day and move on to other things like adding in coomponents or context, tthem moving on to designing, making it look colorful, and presentable. Including on our tool we have been tinkering during April but we had to explain how we used it in our project. 
 
-At first I wanted to use **Bulma** but then when my teacher **Mr.Mueller** went over to ask me about my wireframe to specify what I was gonna use my tool but then recommended me to use my 2nd choice, `WowJs` so I went with that and started to include it based on the [Official Documentation](https://wowjs.uk/docs.html) but also lead me to the documentation of [Animate CSS](https://animate.style/). 
+At first I wanted to use **Bulma** but then when my teacher **Mr.Mueller** went over to ask me about my wireframe to specify what I was gonna use my tool but then recommended me to use my 2nd choice, `WowJs` so I went with that and started to include it based on the [Official Documentation](https://wowjs.uk/docs.html) but also lead me to the documentation of [Animate CSS](https://animate.style/).
 
+We continued on with our in-class presentations as well as getting ready for the **SEP Expo** which certain clases come and visit our projects with judges from Senior students in **SEP** looking over and nominating our projects for our showcase which is a grand presentation that will display the top 3 students with their websites.
 
+---
 
 ## Skills 
 
 **Using Google** to search up anything that I was confused on or I forgot on what other variable I was supposed to add in for my code and also using **W3Schools** webpage, other help forums that were created for users that needed support from the community. **Communication** also helped me as I got to intereact with other **SEP** students such as seniors that got to help me debug my codding when I couldn't find an error or something wasn't functioning in my project. **Organization** helped me organize and plan what I needed to do first such as planning what were the smaller problems first before tackling the bigger problems. 
 
+---
 
+## Takeaways 
+
+As far as the year long research we did it was impressing how fast the year went by and how we had improved our websites from starting with the basics of **HTML** and **CSS** to learning move advance tools that involve with what we have been learning in class and then using that knowledge to our websites and creating our projects to demostrate to others.
+
+with the Expo I learned how other's websites looked more polished and more developed than mine while others got creative with their tool and had an idea of what they wanted to invent in the near future. I learned that with improvement and motivation you can go to great lengths and be proud of what you created because it is just the beginning.
+
+As far as the in-class presentations we have been using that to practice with our voices, creating eye-contact with the audiance, as well as following advice from **Mr.Mueller** when we are doing presentations no matter what the ocasion it is. With his feedback I could refer to that for when I need to give out other presentations but also using that when moving onto **SEP 11** and reflect.
 
 
 
